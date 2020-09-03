@@ -40,7 +40,6 @@ function Login(){
                     <h5>Password</h5>
                     <input value={password} onChange={e=>setPassword(e.target.value)} type="password"/>
                     <button type="submit" onClick={login } className="loginpage_signinButton">Sign In</button>
-                    
                 </form>
                 <p>
                 By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.

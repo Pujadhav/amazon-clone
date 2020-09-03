@@ -17,7 +17,7 @@ function Header(){
         <div>
         <nav className="header">
             <Link to="/">
-            <img className="header_logo" src="../img/amazon-logo.png" alt=""/>
+            <img className="header_logo" src="http://pngimg.com/uploads/amazon/amazon_PNG25.png" alt=""/>
             </Link>
             <div className="header_input">
             <input className="header_searchinput"/>
